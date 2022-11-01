@@ -20,6 +20,11 @@ a {
   margin: 0 16px;
 }
 
+.header-logo {
+  font-size: 24px;
+  color: #f9faf8;
+}
+
 .header-links {
   font-size: 18px;
  
@@ -31,7 +36,7 @@ a {
 }
 
 .header-container2 {
-  margin: 48px 0;
+  margin: 100px 0;
 }
 
 button, .call-to-action {
@@ -39,8 +44,20 @@ button, .call-to-action {
   color: white;
 }
 
+button {
+  border-radius: 5px;
+  padding: 0.5em 2em;
+  font-weight: bold;
+}
+
 .header-container2-left-title {
   font-size: 48px;
   font-weight: extra-bold;
   color: #f9faf8;
+  margin: 0;
+}
+
+.header-container2-text, .header-links {
+  font-size: 18px;
+  color: #e5e7eb;
 }
