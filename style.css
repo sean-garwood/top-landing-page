@@ -83,5 +83,9 @@ button {
   display: flex;
   flex-direction: column;
   max-width: 200px;
+  align-items: center;
+}
 
+img .information-content{
+  max-width: 200px;
 }
