@@ -73,3 +73,15 @@ button {
   font-weight: extra-bold;
   color: #1f2937;
 }
+
+.information-content {
+  display: flex;
+  align-items: space-between;
+}
+
+.information-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 200px;
+
+}
