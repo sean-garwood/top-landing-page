@@ -116,3 +116,18 @@ button {
   font-weight: bold;
   align-self: flex-end;
 }
+
+.call-to-action {
+  margin: 125px 175px;
+  background-color: #382f6;
+}
+
+.call-to-action-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+}
+
+#its-time {
+  font-weight: bold;
+}
