@@ -88,6 +88,10 @@ button {
   margin: 0 16px;
 }
 
+.information-text {
+  text-align: center;
+}
+
 .quote {
   display: flex;
   flex-direction: column;
